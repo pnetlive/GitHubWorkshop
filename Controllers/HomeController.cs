@@ -25,7 +25,6 @@ public class HomeController : Controller
 
     public IActionResult Contact()
     {
-        //this is some comment
         return View();
     }
 
